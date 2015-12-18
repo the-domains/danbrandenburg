@@ -1,0 +1,28 @@
+name: DanBrandenburg
+favicon: null
+layout_spectrum: 0.2623576270416379
+typography_spectrum: 0.9900358570739627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7223386080004275
+  lightness: 0.5183929426129907
+  saturation: 0.6841511365491897
+  rhythmicContrast: 0.49079240392893553
+purpose: []
